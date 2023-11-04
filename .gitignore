@@ -1,0 +1,8 @@
+# Ignore the npm folder
+/npm/
+
+# Ignore .env files
+.env
+
+# ignore node_modules
+/node_modules/
